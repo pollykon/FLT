@@ -1,3 +1,3 @@
 # FLT
 
-Чтобы запустить first_k:  python3 main.py -f <имя файла> -k <значение k>
+Чтобы запустить first_k:  python3 main.py < <имя файла> -k <значение k>
