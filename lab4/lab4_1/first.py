@@ -1,4 +1,4 @@
-from utils import get_new_first
+from тфя.lab4.git_polina.FLT.lab4.lab4_1.utils import get_new_first
 
 class First:
     nterms = []

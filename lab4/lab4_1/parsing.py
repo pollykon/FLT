@@ -1,6 +1,6 @@
 import re
 
-from utils import Types
+from тфя.lab4.git_polina.FLT.lab4.lab4_1.utils import Types
 
 class Parser:
 	def __init__(self):

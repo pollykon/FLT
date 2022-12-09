@@ -1,5 +1,5 @@
-from parsing import Parser
-from utils import print_grammar
+from тфя.lab4.git_polina.FLT.lab4.lab4_1.parsing import Parser
+from тфя.lab4.git_polina.FLT.lab4.lab4_1.utils import print_grammar
 from first import First
 from follow import Follow
 import argparse
